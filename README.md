@@ -2,36 +2,43 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-### 🎓 Finance & Supply Chain Management  
+### 🎓 Finance & Supply Chain Management | Financial Analysis & Operations   
 ** Rutgers Business School Newark **
 
-I build **scalable backend systems** that power data-heavy applications, with a strong focus on **system architecture, performance, and real-world reliability**.  
+I’m a **Finance and Supply Chain Management student** focused on using financial analysis, operational strategy, and data to support better business decisions.
 
-Currently working at the intersection of **backend engineering, graph systems, and AI security**, designing systems that handle complex relationships, large datasets, and production-like workloads.
+My experience spans **financial analysis, supply chain operations, procurement, venture capital, banking, and investment research**, giving me exposure to how companies manage capital, inventory, costs, risk, and growth.
+
+I’m especially interested in opportunities where **finance, analytics, and operations intersect**, including commercial banking, corporate finance, supply chain finance, procurement, and investment analysis.
 
 ---
 
 ## ⚙️ What I Focus On
-- 🧠 **System Architecture** – Designing scalable APIs, data flows, and service layers  
-- ⚡ **Backend Performance** – Caching (Redis), query optimization, and efficient data access  
-- 🔗 **Graph-Based Systems** – Modeling relationships using Neo4j for recommendation + discovery  
-- 🔐 **AI & LLM Security** – Analyzing vulnerabilities in autonomous systems and data pipelines  
-
+- 💰 **Financial Analysis** – Evaluating financial performance, costs, profitability, and investment opportunities
+- 📊 **Financial Modeling** – Building DCF, comparable company, cash flow, and valuation analyses
+- 🚚 **Supply Chain Analytics** – Analyzing inventory, logistics, tariffs, freight, and operational performance
+- 🏦 **Banking & Credit Analysis** – Developing skills in financial statement analysis, lending, risk, and commercial banking
+- 📦 **Procurement & Operations** – Understanding sourcing, supplier costs, inventory management, and operational decision-making
+- 📈 **Data-Driven Decision Making** – Using Excel, Power BI, Tableau, and financial data to identify trends and support recommendations
+  
 ---
 
 ## 🚀 Current Work
-- Building **JitHub** — a graph-powered platform connecting students, companies, and opportunities  
-- Designing **high-performance APIs** using Node.js, Express, PostgreSQL, and Neo4j  
-- Implementing **Redis caching layers** to reduce latency and scale read-heavy systems  
-- Researching **LLM security & agent behavior** under real-world attack scenarios  
-
+- Conducting **equity research and financial modeling** on publicly traded companies using SEC filings, financial statements, industry trends, and key performance indicators
+- Building **DCF and comparable company analyses** to evaluate valuation and investment potential
+- Developing **real estate investment models** focused on acquisition underwriting, cash flow forecasting, valuation, and return metric
+- Applying **supply chain and financial analysis** to inventory, procurement, logistics, tariffs, and operational costs
+- Expanding my knowledge of **commercial banking, credit analysis, and corporate finance**
+  
 ---
 
 ## 📚 Currently Learning
-- 🏗️ **Advanced System Design** – Distributed systems, caching strategies, and scalability  
-- ⚡ **Backend Optimization** – Query planning, indexing, and data modeling  
-- 🤖 **AI Systems** – LLM architecture, agents, and secure deployment pipelines  
-
+- 🏦 **Commercial Banking & Credit Analysis** – Financial statement analysis, credit risk, lending, and relationship banking
+- 📈 **Advanced Financial Modeling** – DCF valuation, comparable companies, forecasting, and scenario analysis
+- 🌎 **Supply Chain Strategy** – Sourcing, procurement, inventory optimization, logistics, and global supply chains
+- 📊 **Business Analytics** – Power BI, Tableau, Excel modeling, dashboards, and data visualization
+- 🤖 **AI in Finance & Supply Chain** – Exploring how AI can improve forecasting, analysis, operations, and decision-making
+ 
 ---
 
 ## 💻 Technical Stack
@@ -67,13 +74,15 @@ Currently working at the intersection of **backend engineering, graph systems, a
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 Business Mindset
 
-I’m less focused on just writing code and more focused on:
-- how systems scale  
-- how data flows through architectures  
-- how to reduce latency and improve reliability  
-- how to build systems that **actually hold up in production**
+I’m less focused on looking at finance and supply chain as separate functions and more focused on understanding:
+* how financial decisions affect operations
+* how inventory and working capital impact profitability
+* how companies manage costs, risk, and capital
+* how procurement and logistics influence financial performance
+* how data can improve forecasting and decision-making
+* how businesses allocate resources to create long-term value
 
 ---
 
@@ -82,46 +91,12 @@ I’m less focused on just writing code and more focused on:
 - 🛠 GitHub: https://github.com/fe131-del
 - 🌐 Portfolio: 
 
-# 💼 Finance & Supply Chain Management | Financial Analysis & Operations
 
-**Rutgers Business School – Newark**
 
-I’m a **Finance and Supply Chain Management student** focused on using financial analysis, operational strategy, and data to support better business decisions.
 
-My experience spans **financial analysis, supply chain operations, procurement, venture capital, banking, and investment research**, giving me exposure to how companies manage capital, inventory, costs, risk, and growth.
 
-I’m especially interested in opportunities where **finance, analytics, and operations intersect**, including commercial banking, corporate finance, supply chain finance, procurement, and investment analysis.
 
----
 
-## ⚙️ What I Focus On
-
-* 💰 **Financial Analysis** – Evaluating financial performance, costs, profitability, and investment opportunities
-* 📊 **Financial Modeling** – Building DCF, comparable company, cash flow, and valuation analyses
-* 🚚 **Supply Chain Analytics** – Analyzing inventory, logistics, tariffs, freight, and operational performance
-* 🏦 **Banking & Credit Analysis** – Developing skills in financial statement analysis, lending, risk, and commercial banking
-* 📦 **Procurement & Operations** – Understanding sourcing, supplier costs, inventory management, and operational decision-making
-* 📈 **Data-Driven Decision Making** – Using Excel, Power BI, Tableau, and financial data to identify trends and support recommendations
-
----
-
-## 🚀 Current Work
-
-* Conducting **equity research and financial modeling** on publicly traded companies using SEC filings, financial statements, industry trends, and key performance indicators
-* Building **DCF and comparable company analyses** to evaluate valuation and investment potential
-* Developing **real estate investment models** focused on acquisition underwriting, cash flow forecasting, valuation, and return metrics
-* Applying **supply chain and financial analysis** to inventory, procurement, logistics, tariffs, and operational costs
-* Expanding my knowledge of **commercial banking, credit analysis, and corporate finance**
-
----
-
-## 📚 Currently Learning
-
-* 🏦 **Commercial Banking & Credit Analysis** – Financial statement analysis, credit risk, lending, and relationship banking
-* 📈 **Advanced Financial Modeling** – DCF valuation, comparable companies, forecasting, and scenario analysis
-* 🌎 **Supply Chain Strategy** – Sourcing, procurement, inventory optimization, logistics, and global supply chains
-* 📊 **Business Analytics** – Power BI, Tableau, Excel modeling, dashboards, and data visualization
-* 🤖 **AI in Finance & Supply Chain** – Exploring how AI can improve forecasting, analysis, operations, and decision-making
 
 ---
 
@@ -145,26 +120,5 @@ I’m especially interested in opportunities where **finance, analytics, and ope
 
 ---
 
-## 📊 Experience Highlights
 
-* Consolidated and analyzed **$60M+ in inventory data across 2,375 SKUs**, improving reporting efficiency and data usability
-* Analyzed **$2.6M+ in tariffs, duties, freight, and logistics costs** across imported products
-* Conducted due diligence on **10+ venture investment opportunities**, evaluating financials, fundraising history, market opportunity, teams, and risks
-* Built **real estate investment and valuation models** covering acquisition underwriting, cash flow forecasting, and return analysis
-* Conducted **equity research and valuation analysis** using SEC filings, financial statements, industry research, DCF, and comparable companies
-
----
-
-## 🧠 Business Mindset
-
-I’m less focused on looking at finance and supply chain as separate functions and more focused on understanding:
-
-* how financial decisions affect operations
-* how inventory and working capital impact profitability
-* how companies manage costs, risk, and capital
-* how procurement and logistics influence financial performance
-* how data can improve forecasting and decision-making
-* how businesses allocate resources to create long-term value
-
-My goal is to continue developing the analytical, financial, and operational skills needed to make **better business and investment decisions**.
 
