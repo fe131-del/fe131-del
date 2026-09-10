@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 ### 🎓 Finance & Supply Chain Management  
-** Rutgers Business School - Newark(RU)**
+** Rutgers Business School Newark **
 
 I build **scalable backend systems** that power data-heavy applications, with a strong focus on **system architecture, performance, and real-world reliability**.  
 
@@ -78,19 +78,7 @@ I’m less focused on just writing code and more focused on:
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/moiseszuniga  
-- 🛠 GitHub: https://github.com/Moises-ITS
-- 🌐 Portfolio: https://moiseszuniga.dev/
+- 💼 LinkedIn: http://www.linkedin.com/in/franklyn-estrada-b121ab372
+- 🛠 GitHub: https://github.com/fe131-del
+- 🌐 Portfolio: 
 
----
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
