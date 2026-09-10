@@ -43,9 +43,9 @@ I’m especially interested in opportunities where **finance, analytics, and ope
 
 ## 💻 Technical Skills
 
-![Advanced Microsoft Excel](https://img.shields.io/badge/Advanced.Microsoft.Excel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau.-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Advanced Microsoft Excel](https://img.shields.io/badge/Advanced20%Microsoft20%Excel%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
