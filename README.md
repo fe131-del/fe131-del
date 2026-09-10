@@ -43,12 +43,14 @@ I’m especially interested in opportunities where **finance, analytics, and ope
 
 ## 💻 Technical Skills
 
-### Data Analysis Tools
-![Excel](https://img.shields.io/badge/Excel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Advanced Microsoft Excel](https://img.shields.io/badge/AdvancedMicrosoftExcel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau.-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ---
