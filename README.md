@@ -44,11 +44,11 @@ I’m especially interested in opportunities where **finance, analytics, and ope
 ## 💻 Technical Skills
 
 ### Data Analysis Tools
-![Excel](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Tableau](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Excel](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ---
