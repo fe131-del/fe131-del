@@ -9,7 +9,7 @@ I’m a **Finance and Supply Chain Management student** focused on using financi
 
 My experience spans **financial analysis, supply chain operations, procurement, venture capital, banking, and investment research**, giving me exposure to how companies manage capital, inventory, costs, risk, and growth.
 
-I’m especially interested in opportunities where **finance, analytics, and operations intersect**, including commercial banking, corporate finance, supply chain finance, procurement, and investment analysis.
+I’m especially interested in opportunities where **finance, analytics, and operations intersect**, including commercial banking, supply chain analytics, supply chain finance, procurement, and investment analysis.
 
 ---
 
