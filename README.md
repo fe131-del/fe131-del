@@ -1,10 +1,9 @@
-## Hi there 👋
 # Hello World, I'm Franklyn! 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-### 🎓 Computer Science & AI | Backend & Systems Engineer  
-**New Jersey Institute of Technology (NJIT)**
+### 🎓 Finance & Supply Chain Management  
+** Rutgers Business School - Newark(RU)**
 
 I build **scalable backend systems** that power data-heavy applications, with a strong focus on **system architecture, performance, and real-world reliability**.  
 
@@ -75,10 +74,16 @@ I’m less focused on just writing code and more focused on:
 - how data flows through architectures  
 - how to reduce latency and improve reliability  
 - how to build systems that **actually hold up in production**
-<!--
-**fe131-del/fe131-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/moiseszuniga  
+- 🛠 GitHub: https://github.com/Moises-ITS
+- 🌐 Portfolio: https://moiseszuniga.dev/
+
+---
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
