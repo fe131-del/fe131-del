@@ -43,7 +43,7 @@ I’m especially interested in opportunities where **finance, analytics, and ope
 
 ## 💻 Technical Skills
 
-![Advanced Microsoft Excel](https://img.shields.io/badge/AdvancedMicrosoftExcel%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Advanced Microsoft Excel](https://img.shields.io/badge/AdvancedMicrosoft20%Excel%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge&logo=fastapi&logoColor=white)
