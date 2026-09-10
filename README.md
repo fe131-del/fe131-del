@@ -1,6 +1,6 @@
 # Hello World, I'm Franklyn! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Franklyn%20Estrada&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 ### 🎓 Finance & Supply Chain Management | Financial Analysis & Operations   
 ** Rutgers Business School Newark **
