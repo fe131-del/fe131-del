@@ -92,32 +92,6 @@ I’m less focused on looking at finance and supply chain as separate functions 
 - 🌐 Portfolio: 
 
 
-
-
-
-
-
-
----
-
-## 🛠️ Tools & Skills
-
-### Finance & Modeling
-
-**Financial Modeling** • **DCF Valuation** • **Comparable Company Analysis** • **Financial Statement Analysis** • **Cash Flow Forecasting** • **Investment Research** • **Credit Analysis**
-
----
-
-### Supply Chain & Operations
-
-**Inventory Analysis** • **Procurement** • **Sourcing** • **Logistics** • **Demand Forecasting** • **S&OP** • **Tariff & Duty Analysis** • **Supply Chain Strategy**
-
----
-
-### Data & Analytics
-
-**Microsoft Excel** • **Power BI** • **Tableau** • **SAP** • **Microsoft PowerPoint** • **Microsoft Word** • **Notion**
-
 ---
 
 
